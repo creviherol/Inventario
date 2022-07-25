@@ -82,6 +82,79 @@ main{
     width: 42.2%;
     transform: translate(-40%,1%);
 }
-
-
-
+.cristal{
+    position: absolute;
+    transform: translate(-944.7%,141.5%);
+    width: 5.7%;
+    height: 14.6%;
+}
+.s04{
+    position: absolute;
+    height: 14.6%;
+    width: 5.7%;
+    transform: translate(-944.7%,141.5%);
+    background-color: rgb(0,0,0,0);
+}
+.s04:active{
+    background-image: url(./imagens/cristal.jpg);
+    height: 104%;
+    width: 42.2%;
+    transform: translate(-40%,1%);
+}
+.saco_de_dormir{
+    position: absolute;
+    transform: translate(-838%,141.5%);
+    width: 5.7%;
+    height: 14.6%;
+}
+.s05{
+    position: absolute;
+    height: 14.6%;
+    width: 5.7%;
+    transform: translate(-838%,141.5%);
+    background-color: rgb(0,0,0,0);
+}
+.s05:active{
+    background-image: url(./imagens/saco\ de\ dormir.jpg);
+    height: 104%;
+    width: 42.2%;
+    transform: translate(-40%,1%);
+}
+.Kit_de_refeiçao{
+    position: absolute;
+    transform: translate(-730%,141.5%);
+    width: 5.7%;
+    height: 14.6%;
+    }
+    .s06{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-730%,141.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s06:active{
+        background-image: url(./imagens/kit\ de\ refeição.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
+    .caixa_de_fogo{
+        position: absolute;
+        transform: translate(-623%,141.5%);
+        width: 5.7%;
+        height: 14.6%;
+        }
+    .s07{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-623%,141.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s07:active{
+        background-image: url(./imagens/caixa\ de\ fogo.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
