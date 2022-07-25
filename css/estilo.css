@@ -177,3 +177,79 @@ main{
         width: 42.2%;
         transform: translate(-40%,1%);
     }
+    .raçao{
+        position: absolute;
+        transform: translate(-1160%,248.5%);
+        width: 5.7%;
+        height: 14.6%;
+    }
+    .s09{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-1160%,248.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s09:active{
+        background-image: url(./imagens/Raçao.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
+    .cantil{
+        position: absolute;
+        transform: translate(-1052.7%,248.5%);
+        width: 5.7%;
+        height: 14.6%;
+    }
+    .s10{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-1052.7%,248.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s10:active{
+        background-image: url(./imagens/cantil.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
+    .corda{
+        position: absolute;
+        transform: translate(-944.7%,248.5%);
+        width: 5.7%;
+        height: 14.6%;
+    }
+    .s11{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-944.7%,248.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s11:active{
+        background-image: url(./imagens/corda.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
+    .anotaçoes{
+        position: absolute;
+        transform: translate(-838%,248.5%);
+        width: 5.7%;
+        height: 14.6%;
+    }
+    .s12{
+        position: absolute;
+        height: 14.6%;
+        width: 5.7%;
+        transform: translate(-838%,248.5%);
+        background-color: rgb(0,0,0,0);
+    }
+    .s12:active{
+        background-image: url(./imagens/anotaçoes.jpg);
+        height: 104%;
+        width: 42.2%;
+        transform: translate(-40%,1%);
+    }
