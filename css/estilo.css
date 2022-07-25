@@ -63,5 +63,11 @@ main{
     width: 42.2%;
     transform: translate(-40%,1%);
 }
+.virotes{
+    position: absolute;
+    transform: translate(-1160%,141.5%);
+    width: 5.7%;
+    height: 14.6%;
+}
 
 
