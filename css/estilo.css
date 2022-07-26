@@ -99,7 +99,7 @@ main{
     background-color: rgb(0,0,0,0);
 }
 .s03:active::after{
-    content: ' Un: 1';
+    content: ' Un: 20';
     position:relative;
         height:420px;
         width:500px;      
@@ -249,7 +249,7 @@ main{
     background-color: rgb(0,0,0,0);
 }
 .s08:active::after{
-    content: ' Un: 1';
+    content: ' Un: 10';
     position:relative;
         height:420px;
         width:500px;      
@@ -279,7 +279,7 @@ main{
     background-color: rgb(0,0,0,0);
 }
 .s09:active::after{
-    content: ' Un: 1';
+    content: ' Un: 10';
     position:relative;
         height:420px;
         width:500px;      
@@ -339,7 +339,7 @@ main{
     background-color: rgb(0,0,0,0);
 }
 .s11:active::after{
-    content: ' Un: 1';
+    content: ' Un: 15 m';
     position:relative;
         height:420px;
         width:500px;      
