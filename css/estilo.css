@@ -38,6 +38,17 @@ main{
     transform: translate(-1267%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s01:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s01:active{
   background-image: url(./imagens/mochila.jpg);
   height: 104%;
@@ -56,6 +67,17 @@ main{
     width: 5.7%;
     transform: translate(-1160%,141.5%);
     background-color: rgb(0,0,0,0);
+}
+.s02:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s02:active{
     background-image: url(./imagens/besta.jpg);
@@ -76,6 +98,17 @@ main{
     transform: translate(-1052.7%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s03:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s03:active{
     background-image: url(./imagens/Virotes.jpg);
     height: 104%;
@@ -94,6 +127,17 @@ main{
     width: 5.7%;
     transform: translate(-944.7%,141.5%);
     background-color: rgb(0,0,0,0);
+}
+.s04:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s04:active{
     background-image: url(./imagens/cristal.jpg);
@@ -114,6 +158,17 @@ main{
     transform: translate(-838%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s05:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s05:active{
     background-image: url(./imagens/saco\ de\ dormir.jpg);
     height: 104%;
@@ -132,6 +187,17 @@ main{
     width: 5.7%;
     transform: translate(-730%,141.5%);
     background-color: rgb(0,0,0,0);
+}
+.s06:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s06:active{
     background-image: url(./imagens/kit\ de\ refeição.jpg);
@@ -152,6 +218,17 @@ main{
     transform: translate(-623%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s07:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s07:active{
     background-image: url(./imagens/caixa\ de\ fogo.jpg);
     height: 104%;
@@ -170,6 +247,17 @@ main{
     width: 5.7%;
     transform: translate(-1267%,248.5%);
     background-color: rgb(0,0,0,0);
+}
+.s08:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s08:active{
     background-image: url(./imagens/tocha.jpg);
@@ -190,6 +278,17 @@ main{
     transform: translate(-1160%,248.5%);
     background-color: rgb(0,0,0,0);
 }
+.s09:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s09:active{
     background-image: url(./imagens/Raçao.jpg);
     height: 104%;
@@ -208,6 +307,17 @@ main{
     width: 5.7%;
     transform: translate(-1052.7%,248.5%);
     background-color: rgb(0,0,0,0);
+}
+.s10:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s10:active{
     background-image: url(./imagens/cantil.jpg);
@@ -228,6 +338,17 @@ main{
     transform: translate(-944.7%,248.5%);
     background-color: rgb(0,0,0,0);
 }
+.s11:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s11:active{
     background-image: url(./imagens/corda.jpg);
     height: 104%;
@@ -246,6 +367,17 @@ main{
     width: 5.7%;
     transform: translate(-838%,248.5%);
     background-color: rgb(0,0,0,0);
+}
+.s12:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s12:active{
     background-image: url(./imagens/anotaçoes.jpg);
@@ -266,6 +398,17 @@ main{
     transform: translate(-730%,248.5%);
     background-color: rgb(0,0,0,0);
 }
+.s13:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s13:active{
     background-image: url(./imagens/coberto.jpg);
     height: 104%;
@@ -284,6 +427,17 @@ main{
     width: 5.7%;
     transform: translate(-623%,248.5%);
     background-color: rgb(0,0,0,0);
+}
+.s14:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
 }
 .s14:active{
     background-image: url(./imagens/Kit\ de\ herbalismo.jpg);
@@ -304,9 +458,20 @@ main{
     transform: translate(-1267%,355%);
     background-color: rgb(0,0,0,0);
 }
+.s15:active::after{
+    content: ' Un: 1';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
 .s15:active{
     background-image: url(./imagens/roupas.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,1%); 
 }
