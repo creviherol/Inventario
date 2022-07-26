@@ -475,3 +475,33 @@ main{
     width: 42.2%;
     transform: translate(-40%,1%); 
 }
+.po{
+    position: absolute;
+    transform: translate(-623%,570%);
+    width: 5.7%;
+    height: 14.6%;
+}
+.s31{
+    position: absolute;
+    height: 14.6%;
+    width: 5.7%;
+    transform: translate(-623%,570%);
+    background-color: rgb(0,0,0,0);
+}
+.s31:active::after{
+    content: ' Un: 5';
+    position:relative;
+        height:420px;
+        width:500px;      
+        float:left;
+        text-align:left;
+        text-indent:-355px;
+        font-family:fantasy;
+        font-size: 20px;
+}
+.s31:active{
+    background-image: url(./imagens/Peça\ de\ Ouro.jpg);
+    height: 104%;
+    width: 42.2%;
+    transform: translate(-40%,1%); 
+}
