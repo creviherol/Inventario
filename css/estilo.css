@@ -25,6 +25,12 @@ main{
     transform: translate(-50%);
     max-width: 1200px;
 }
+.D{
+    position:absolute;
+    width: 50%;
+    height: 71%;
+    transform: translate(-41.5%,80%);
+}
 .mochila{
     position: absolute;
     transform: translate(-1267%,141.5%);
@@ -41,11 +47,11 @@ main{
 .s01:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
+        height:56%;
+        width:100%;      
         float:left;
         text-align:left;
-        text-indent:-355px;
+        text-indent:-335px;
         font-family:fantasy;
         font-size: 20px;
 }
@@ -53,7 +59,7 @@ main{
   background-image: url(./imagens/mochila.jpg);
   height: 104%;
   width: 42.2%;
-  transform: translate(-40%,1%);
+  transform: translate(-40%,-13%);
 }
 .besta{
     position: absolute;
@@ -71,11 +77,11 @@ main{
 .s02:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
+        height:56%;
+        width:100%;       
         float:left;
         text-align:left;
-        text-indent:-355px;
+        text-indent:-335px;
         font-family:fantasy;
         font-size: 20px;
 }
@@ -83,7 +89,7 @@ main{
     background-image: url(./imagens/besta.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .virotes{
     position: absolute;
@@ -101,19 +107,19 @@ main{
 .s03:active::after{
     content: ' Un: 20';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s03:active{
     background-image: url(./imagens/Virotes.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .cristal{
     position: absolute;
@@ -131,19 +137,19 @@ main{
 .s04:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s04:active{
     background-image: url(./imagens/cristal.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .saco_de_dormir{
     position: absolute;
@@ -161,19 +167,19 @@ main{
 .s05:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s05:active{
     background-image: url(./imagens/saco\ de\ dormir.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .Kit_de_refeiçao{
     position: absolute;
@@ -191,19 +197,19 @@ main{
 .s06:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s06:active{
     background-image: url(./imagens/kit\ de\ refeição.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .caixa_de_fogo{
     position: absolute;
@@ -221,19 +227,19 @@ main{
 .s07:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s07:active{
     background-image: url(./imagens/caixa\ de\ fogo.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .tocha{
     position: absolute;
@@ -251,19 +257,19 @@ main{
 .s08:active::after{
     content: ' Un: 10';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s08:active{
     background-image: url(./imagens/tocha.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .raçao{
     position: absolute;
@@ -281,19 +287,19 @@ main{
 .s09:active::after{
     content: ' Un: 10';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s09:active{
     background-image: url(./imagens/Raçao.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .cantil{
     position: absolute;
@@ -311,19 +317,19 @@ main{
 .s10:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s10:active{
     background-image: url(./imagens/cantil.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .corda{
     position: absolute;
@@ -341,19 +347,19 @@ main{
 .s11:active::after{
     content: ' Un: 15 m';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s11:active{
     background-image: url(./imagens/corda.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .anotaçoes{
     position: absolute;
@@ -371,19 +377,19 @@ main{
 .s12:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s12:active{
     background-image: url(./imagens/anotaçoes.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .coberto{
     position: absolute;
@@ -401,19 +407,19 @@ main{
 .s13:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s13:active{
     background-image: url(./imagens/coberto.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .Kit_de_herbalismo{
     position: absolute;
@@ -431,19 +437,19 @@ main{
 .s14:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s14:active{
     background-image: url(./imagens/Kit\ de\ herbalismo.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%);
+    transform: translate(-40%,-13%);
 }
 .roupa{
     position: absolute;
@@ -461,19 +467,19 @@ main{
 .s15:active::after{
     content: ' Un: 1';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s15:active{
     background-image: url(./imagens/roupas.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%); 
+    transform: translate(-40%,-13%); 
 }
 .po{
     position: absolute;
@@ -491,19 +497,19 @@ main{
 .s31:active::after{
     content: ' Un: 5';
     position:relative;
-        height:420px;
-        width:500px;      
-        float:left;
-        text-align:left;
-        text-indent:-355px;
-        font-family:fantasy;
-        font-size: 20px;
+    height:56%;
+    width:100%;       
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
 }
 .s31:active{
     background-image: url(./imagens/Peça\ de\ Ouro.jpg);
     height: 104%;
     width: 42.2%;
-    transform: translate(-40%,1%); 
+    transform: translate(-40%,-13%); 
 }
 .f{
     position: absolute;
@@ -520,4 +526,10 @@ main{
     transform: translate(-940%,25%);
     background-color: rgb(0,0,0,0);
     border-color: rgb(0,0,0,0);
+}
+.n{
+    position: absolute;
+    left: 89.5%;
+    top: 114%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
