@@ -415,7 +415,7 @@ main{
     position:relative;
     width:100%; 
     height:-156%;
-    top: -87%;      
+    top: -84%;      
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -459,7 +459,7 @@ main{
     position:relative;
     width:100%; 
     height:-156%;
-    top: -87%;       
+    top: -84%;       
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -503,7 +503,7 @@ main{
     position:relative;
     width:100%; 
     height:-156%;
-    top: -87%;       
+    top: -84%;       
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -529,11 +529,25 @@ main{
     transform: translate(-838%,248.5%);
     background-color: rgb(0,0,0,0);
 }
+.s12:active::before{
+    content: 'Livro que uso para anotar minhas magias e truques, posso acessar clicando no osso';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s12:active::after{
     content: ' Un: 1';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%;
+    height:-156%;
+    top: -87%;         
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -559,11 +573,25 @@ main{
     transform: translate(-730%,248.5%);
     background-color: rgb(0,0,0,0);
 }
+.s13:active::before{
+    content: 'Para me manter quentinho enquanto eu durmo';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s13:active::after{
     content: ' Un: 1';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%;  
+    height:-156%;
+    top: -84%;     
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -634,11 +662,25 @@ main{
     transform: translate(-1267%,355%);
     background-color: rgb(0,0,0,0);
 }
+.s15:active::before{
+    content: 'Não e muito confortavel andar pelado por ai';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s15:active::after{
     content: ' Un: 1';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%; 
+    height:-156%;
+    top: -84%;         
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -664,11 +706,25 @@ main{
     transform: translate(-623%,570%);
     background-color: rgb(0,0,0,0);
 }
+.s31:active::before{
+    content: 'Valioso em muito lugares , e o que move o mundo';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s31:active::after{
     content: ' Un: 5';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%;
+    height:-156%;
+    top: -84%;          
     float:left;
     text-align:left;
     text-indent:-335px;
