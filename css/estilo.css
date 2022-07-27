@@ -178,7 +178,7 @@ main{
     background-color: rgb(0,0,0,0);
 }
 .s04:active::before{
-    content: 'Projeteis usados na Besta Leve';
+    content: 'Cristal magico acoplado em minha manopla, povavelmento que faz ela conseguir conjurar magias';
     position:relative;
     margin-top: 101%;      
     float:left;
@@ -195,7 +195,7 @@ main{
     position:relative;
     width:100%; 
     height:-156%;
-    top: -84%;      
+    top: -87%;      
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -221,11 +221,25 @@ main{
     transform: translate(-838%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s05:active::before{
+    content: 'Cama portatil que uso para dormir em minhas viagens';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s05:active::after{
     content: ' Un: 1';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%;
+    height:-156%;
+    top: -84%;       
     float:left;
     text-align:left;
     text-indent:-335px;
@@ -251,11 +265,25 @@ main{
     transform: translate(-730%,141.5%);
     background-color: rgb(0,0,0,0);
 }
+.s06:active::before{
+    content: 'Utensílios que uso para me auciliar a comer';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 .s06:active::after{
     content: ' Un: 1';
     position:relative;
-    height:56%;
-    width:100%;       
+    width:100%;   
+    height:-156%;
+    top: -84%;    
     float:left;
     text-align:left;
     text-indent:-335px;
