@@ -693,6 +693,63 @@ main{
     width: 42.2%;
     transform: translate(-40%,-13%); 
 }
+.missao{
+    position: absolute;
+    transform: translate(-1160%,355%);
+    width: 5.7%;
+    height: 14.6%;
+}
+.s16{
+    position: absolute;
+    height: 14.6%;
+    width: 5.7%;
+    transform: translate(-1160%,355%);
+    background-color: rgb(0,0,0,0);
+}
+.s16:active::before{
+    content: 'Missão: Trazer noticias sobre os desaparecimento a 2 semanas';
+    position:relative;
+    margin-top: 101%;      
+    float:left;
+    text-align:left;
+    font-family:fantasy;
+    font-size: px;
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+.s16:active::after{
+    content: ' Un: 1';
+    position:relative;
+    width:100%; 
+    height:-156%;
+    top: -84%;      
+    float:left;
+    text-align:left;
+    text-indent:-335px;
+    font-family:fantasy;
+    font-size: 20px;
+}
+.s16:active{
+    background-image: url(./imagens/missão.jpg);
+    height: 104%;
+    width: 42.2%;
+    transform: translate(-40%,-13%);
+}
+.mapa{
+    position: absolute;
+    transform: translate(-1052.7%,355%);
+    width: 5.7%;
+    height: 14.6%;
+}
+.s17{
+    position: absolute;
+    height: 14.6%;
+    width: 5.7%;
+    transform: translate(-1052.7%,355%);
+    background-color: rgb(0,0,0,0);
+}
 .po{
     position: absolute;
     transform: translate(-623%,570%);
